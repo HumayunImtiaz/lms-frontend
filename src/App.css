@@ -1,0 +1,4 @@
+/* Keep this file minimal to avoid Vite default demo styles interfering with app layout */
+#root {
+  min-height: 100vh;
+}
